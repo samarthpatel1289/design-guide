@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "design-guide",
+  "description": "Design guide and design engineer skill for Claude.",
+  "owner": {"name": "design-guide contributors"},
+  "plugins": [
+    {
+      "name": "design-guide",
+      "description": "Guardian, auditor and teacher for UI/UX, brand and accessibility in any app.",
+      "source": "./",
+      "category": "design"
+    }
+  ]
+}

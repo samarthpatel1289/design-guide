@@ -1,0 +1,8 @@
+{
+  "name": "design-guide",
+  "version": "0.1.2",
+  "description": "Your app's design guide and design engineer: checks UI requests against design laws (WCAG 2.2, Apple HIG, Material, Nielsen, Laws of UX) before building, audits screens for UX, brand and consistency issues, and teaches the why as you go.",
+  "author": {"name": "design-guide contributors"},
+  "license": "MIT",
+  "keywords": ["design", "ux", "accessibility", "wcag", "hig", "material", "audit", "brand"]
+}
